@@ -1,0 +1,22 @@
+Subject,Level,Combined,final_greater_project,final_greater_predicted,final_greater_both,final_less_both,no_pass_when_passed_both,exam_greater_final
+BIOLOGY,HL,Biology HL,0.288,0.096,0.077,0.033,-0.077,0.224
+BIOLOGY,SL,Biology SL,0.269,0.059,0.163,0.024,0.005,0.295
+DANCE,HL,Dance HL,-0.034,0,0,0.111,0,
+DANCE,SL,Dance SL,0,0,0,0.1,0,
+ENGLISH A: Lang and Literature,HL,English HL,-0.133,0.239,0.043,-0.023,-0.006,0.228
+ENV. AND SOC.,SL,Enivornmental Studies SL,0.261,0.051,0.051,0.001,-0.02,0.157
+FILM,HL,Film HL,0.157,0.157,0.1,0,0,
+FILM,SL,Film SL,0,0.267,0,-0.067,0,
+HISTORY AMERICAS,HL,History HL,0.177,0.244,0.137,0.061,0.121,0.261
+MATH.STUDIES,SL,Math Studies SL,0.316,0.024,0.009,-0.012,0.021,0.228
+MATHEMATICS,SL,Mathematics SL,0,0.052,0,-0.006,0.022,0.017
+MUSIC,HL,Music HL,-0.073,0,0,-0.077,0,0.077
+MUSIC GR.PERF,SL,Musical Group Performance SL,0.037,0,0,0.191,0,
+SPANISH AB.,SL,Spanish AB Initio SL,-0.067,0.115,0,-0.203,-0.055,0.083
+SPANISH B,HL,Spanish B HL,0.089,-0.177,0.08,-0.04,0,
+SPANISH B,SL,Spanish B SL,-0.14,0.262,0.018,-0.11,-0.099,0.164
+THEATRE,HL,Theatre HL,0,0,0,-0.077,0,
+THEATRE,SL,Theatre SL,-0.227,-0.045,-0.045,-0.155,0,
+THEORY KNOWL.,TK,Theory of Knowledge,-0.022,-0.153,-0.057,0,0,
+VISUAL ARTS,HL,Visual Arts HL,0.125,0.063,0,0.143,0,
+VISUAL ARTS,SL,Visual Arts SL,0.025,0.475,0.1,0,0,

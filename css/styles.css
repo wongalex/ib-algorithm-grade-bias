@@ -1,0 +1,119 @@
+html, body {
+    height: 100vh;
+}
+
+.container-fluid {
+    height: 100vh;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border-radius: 8px;
+}
+
+#carousel-container {
+    height: 100vh;
+    width: 90%;
+    margin-top:0vh;
+    margin-left:10vh;
+ }
+
+.headline{
+    font-size: 60px;
+    -webkit-text-fill-color: black;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    -webkit-text-fill-color: white;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+.align-self-right{
+    text-align: right;
+    font-size: 20px;
+    -webkit-text-fill-color: white;
+}
+
+.bigtext{
+    font-size: 20px;
+}
+
+.carousel-caption{
+    background-color: dimgrey;
+    opacity: 0.8;
+    max-width: 80%;
+    width: 80%;
+    left: 10%;
+}
+
+.carousel-caption p{
+    margin: 5px;
+}
+
+.table {
+    font-size: 0.7em;
+}
+
+.title {
+    font-size: 20px;
+}
+
+.label {
+    text-align: end;
+    font-size: 12px;
+}
+
+#first {
+    background-image: url("../img/grad_photo.jpg");
+    background-size: cover;
+    color:white;
+}
+
+#first h1 {
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width:3px;
+}
+
+#first p {
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width:1.5px;
+    font-size: 32px;
+}
+
+.top-part {
+    height: 80vh;
+}
+
+.bottom-part {
+    height: 20vh;
+    padding: 30px;
+    text-align:center;
+}
+
+.bottom-part-left {
+    height: 20vh;
+    padding: 30px;
+    text-align:left;
+}
+
+.top-part-first {
+    height: 65vh;
+}
+
+.bottom-part-first {
+    height: 34vh;
+    text-align:center;
+    font-weight: bold;
+}
