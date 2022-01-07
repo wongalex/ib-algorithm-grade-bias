@@ -7,11 +7,12 @@
     Investigated the potential bias of an algorithm that determined grades for IB  middle school and high school students during the COVID-19 pandemic. Utilized D3.js to generate visualizations from data gathered on students' grades. Website built using Bootstrap and HTML/CSS/JavaScript.
     <br />
     <br />
-    Site URL:
-    <a href="https://wongalex.io">wongalex.io</a>
+    <a href="http://ib-algorithm-grade-bias.s3-website-us-west-1.amazonaws.com/">Visit Website</a>
+    <br />
+    Best viewed on desktop
     <br />
     <br />
-    <a href="https://www.github.com/wongalex">About Me</a>
+    <a href="https://wongalex.io">About Me</a>
   </p>
 </p>
 
@@ -21,7 +22,7 @@
 
 - [Technology Stack 🛠️](#technology-stack-)
 - [File/Folder Structure ⚓](#structure-)
-- [Setup And Deployment 🔧](#setup-and-deployment-)
+- [Setup And View 🔧](#setup-and-view-)
 
 ## Technology Stack 🛠️
 
@@ -42,7 +43,7 @@ Fullpage library CSS: https://alvarotrigo.com/fullPage/
 Datasets for project.
 
 `img/`
-Images for project. Source: KIPP University Prep website and YouTube channel
+Images for project.
 
 `js/`
 JavaScript (D3 code) for project.
@@ -54,74 +55,19 @@ Fullpage library JS: https://alvarotrigo.com/fullPage/
 Home page for project
 
 
-## Setup And Deployment 🔧
+## Setup And View 🔧
 
 1. To get started, fork this repository to your GitHub account.
 
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/<your-username>/ib-algorithm-grade-bias.git
    ```
 
-3. Open in your favorite editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
+3. Open in your favorite editor and run the [index.html](./index.html) file. Note that you must 
+run in an editor for the images and visualizations to appear properly.
 
-4. Add your resume as <resume.pdf> in place of [src/editable-stuff/resume.pdf](./src/editable-stuff/)
-
-5. Edit [title](./public/index.html#L34) and meta [description](./public/index.html#L13) in [public/index.html](./public/index.html).
-6. Change URL in [package.json](./package.json) file:
-
-   ```json
-    "homepage": "https://<your-username>.github.io/home"
-   ```
-
-   Or for deployment at custom domain, refer to [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
-
-7. After editing, run the following bash commands:
-
-   ```bash
-   npm install
-   ```
-   This will install all the dependencies needed to run this app. The dependencies will be stored in a folder named node_modules under the home folder.
-   
-   After installing the dependencies, you can first test the app before deploying it by running:
-   
-   ```bash
-   npm start
-   ```
-   This will start up the app. You can access it from your favorite browser and entering for the URL:
-   
-   ```
-   localhost:3000
-   ```
-
-8. To deploy website, first run:
-
-   ```bash
-    npm run build
-   ```
-   This will create a build folder under the home folder that will hold all the final assets that will be deployed. Finally, to deploy, run:
-   
-   ```bash
-    npm run deploy
-   ```
-
-   Or for deployment at \<username>.github.io, refer to [READMEdocs/custom-deployment.md](./READMEdocs/custom-deployment.md) and [pages.js](./pages.js)
-
-9. Congrats! Your site is up and running. To see it live, visit:
-
-   ```https
-     https://<your-username>.github.io/home
-   ```
-
-10. To change the thumbnail image:
-
-    - Navigate to the "public" folder.  
-    - There you will see "social-image.png".  
-    - Delete it.   
-    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
-    
-   Next time if you make changes, repeat from step 8.
 
 Facing issues? Feel free to contact me at alexwong@g.harvard.edu .
 
